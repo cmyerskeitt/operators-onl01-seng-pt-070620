@@ -1,5 +1,5 @@
 def unsafe?(speed)
- return speed = unsafe ? speed : false 
+ return speed = unsafe ? true : false
 end
 
 
